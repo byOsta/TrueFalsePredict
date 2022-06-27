@@ -1,0 +1,11 @@
+Flask== 2.1.2
+
+pandas
+
+opencv-python-headless
+
+matplotlib
+
+seaborn
+
+protobuf
